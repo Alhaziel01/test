@@ -45,7 +45,7 @@
                             "director": [],
                             "added": 1613121217
                         },
-                        "headers": "referer=https://ddlstreamitaly.co/",
+                        "headers": {"Referer":"https://ddlstreamitaly.co/"},
                         "video": "http://streamlivenow.ru/Serie.tv/BlackAF/1.mp4"
                     },
                     {

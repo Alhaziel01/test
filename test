@@ -1,27 +1,5 @@
 [
     {
-        "name": "#blackAF",
-        "info": {
-            "genre": [
-                "comedy"
-            ]
-        },
-        "seasons": [
-            {
-                "season": 1,
-                "name": "Season 1",
-                "episodes": [
-                    {
-                        "episode": 1,
-                        "name": "Episode 1",
-                        "headers": "Referer=https://ddlstreamitaly.co/",
-                        "video": "http://streamlivenow.ru/Serie.tv/BlackAF/1.mp4"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "300",
         "info": {
             "genre": [
